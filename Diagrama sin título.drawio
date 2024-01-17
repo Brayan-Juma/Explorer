@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T15:47:14.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="JlQ26TWlxgCMECBp1dFu" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T15:47:36.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="7_Kgst4J9wz6PHYgdQ4s" version="22.1.21" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
-    <mxGraphModel dx="2773" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1902" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -167,22 +167,22 @@
           <mxGeometry x="1314.89" y="1010" width="225" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4D1bzQeJwv3goNtSGUDf-23" value="FUNDAMENTOS" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="640" width="150" height="80" as="geometry" />
+          <mxGeometry x="1540" y="650" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4D1bzQeJwv3goNtSGUDf-24" value="EJEMPLOS&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1502.5" y="940" width="125" height="80" as="geometry" />
+          <mxGeometry x="1552.5" y="950" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4D1bzQeJwv3goNtSGUDf-25" value="OpenMP: biblioteca de programación paralela para sistemas&amp;nbsp;multiprocesador" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1663.5" y="840" width="200" height="100" as="geometry" />
+          <mxGeometry x="1728.88" y="850" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4D1bzQeJwv3goNtSGUDf-26" value="Es un lenguaje de programación de propósito general que ofrece como ventajas economía de expresión, control de flujo y estructuras de datos y conjunto de operadores" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1670.25" y="655" width="219.75" height="175" as="geometry" />
+          <mxGeometry x="1720.25" y="650" width="219.75" height="175" as="geometry" />
         </mxCell>
         <mxCell id="4D1bzQeJwv3goNtSGUDf-27" value="Lenguaje de bajo nivel, eficiente en el uso de memoria y procesamiento" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1670.25" y="540" width="197.5" height="80" as="geometry" />
+          <mxGeometry x="1731.38" y="550" width="197.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4D1bzQeJwv3goNtSGUDf-28" value="MPI: biblioteca de comunicación de mensajes para sistemas distribuidos." style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1668.5" y="1010" width="195" height="110" as="geometry" />
+          <mxGeometry x="1728.88" y="1005" width="195" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
