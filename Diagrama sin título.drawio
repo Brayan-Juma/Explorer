@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T15:11:51.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ecjFO5eupRFj72v4SHqo" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T15:12:32.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="_IOO4ygwGbYOcoAJ8W6_" version="22.1.21" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
     <mxGraphModel dx="1664" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="905" y="485" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="303ed1de8c2c98b4-16" value="Es un lenguaje de programación de alto nivel que se utiliza en la computación científica y de ingeniería.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="75" y="500" width="282" height="80" as="geometry" />
+          <mxGeometry x="71.5" y="490" width="282" height="80" as="geometry" />
         </mxCell>
         <mxCell id="303ed1de8c2c98b4-17" value="Community Evangelist" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1057" y="485" width="125" height="80" as="geometry" />
